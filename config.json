@@ -1,0 +1,8 @@
+var config = {
+  token: "[Token Here]", // Replace this with you bot account's token. | https://discordjs.guide/preparations/setting-up-a-bot-application.html
+   prefix: "[Prefix]", // Set you prefix here!
+
+  statusMessage: `[Enter a valid status]`,// This is a status thing to set your bot's status! 
+  dbltoken: undefined 
+
+module.exports = config; // Put's new config object as export.
