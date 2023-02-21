@@ -1,2 +1,5 @@
 # DiscordBot-Simple
-This bot is so simple an easy to use, if you want to fork it you can!
+--------------------
+# How To run this!
+ This thing is still being worked on (Sorry :( )
+
